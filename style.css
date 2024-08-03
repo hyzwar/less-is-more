@@ -136,7 +136,9 @@ h2 {
   text-decoration: none;
   color: #63f2a1;
   background-color: #f0ebe3;
-  padding-right: 8px;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #d:hover {
@@ -146,8 +148,12 @@ h2 {
 }
 
 #d:hover a {
+  text-decoration: none;
   color: #63f2a1;
   background-color: white;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #e {
@@ -255,7 +261,9 @@ h1 {
   text-decoration: none;
   color: #c9cff2;
   background-color: #f0ebe3;
-  padding-right: 8px;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #about #d:hover {
@@ -265,8 +273,12 @@ h1 {
 }
 
 #about #d:hover a {
+  text-decoration: none;
   color: #c9cff2;
   background-color: white;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #about #e {
@@ -374,7 +386,9 @@ h1 {
   text-decoration: none;
   color: #d9a9ad;
   background-color: #f0ebe3;
-  padding-right: 8px;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #contact #d:hover {
@@ -384,8 +398,12 @@ h1 {
 }
 
 #contact #d:hover a {
+  text-decoration: none;
   color: #d9a9ad;
   background-color: white;
+  padding-top: 8px;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
 #contact #e {
