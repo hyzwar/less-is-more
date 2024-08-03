@@ -39,7 +39,7 @@ body {
 
 .grid-container {
   min-width: 370px;
-  max-width: 45%;
+  max-width: 99vw;
   max-height: 100%;
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
@@ -50,11 +50,11 @@ body {
 #txt-background {
   background-color: #2a3340;
   opacity: 0.5;
-  color: white;
   min-width: 370px;
   max-width: 33%;
   margin-top: 10vh;
   padding: 10vh;
+  color: white;
   font-family: monospace;
   font-size: large;
 }
